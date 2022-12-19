@@ -8,3 +8,4 @@ export 'src/models/danger_dsl.dart';
 export 'src/models/bitbucket_cloud.dart';
 export 'src/models/git_dsl.dart';
 export 'src/models/github_dsl.dart';
+export 'src/models/gitlab_dsl.dart';
